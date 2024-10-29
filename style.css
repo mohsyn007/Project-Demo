@@ -19,3 +19,15 @@
     
 
 }
+.nav{
+  
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 10px;
+
+
+}
+.navbar{
+  display:flex;
+  justify-content:center;
+  }
